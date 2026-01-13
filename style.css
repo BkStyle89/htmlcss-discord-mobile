@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
-body{
-    width: 512px
+body {
+    width: 512px;
+    background-image: url(./assets/img/background.png);
+    background-size: cover;
 }
+
