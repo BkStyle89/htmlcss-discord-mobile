@@ -69,7 +69,7 @@ body {
     padding: 50px;
 }
 .top_video{
-    margin-left: 100px;
+    margin-left: 10dvh;
     width: 500px;
     border-radius: 40px;
     padding: 5px;
