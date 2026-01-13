@@ -4,9 +4,23 @@
     box-sizing: border-box;
 }
 
+
+
 body {
     width: 512px;
-    background-image: url(./assets/img/background.png);
-    background-size: cover;
+    background-color: rgba(25, 29, 123);
 }
 
+#Main_Title{
+    color: white;
+    font-family: "Tektur", sans-serif;
+   font-size: 400%;
+       color: white;
+    text-shadow: 4px 4px black;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+ 
+    
+    
+}
