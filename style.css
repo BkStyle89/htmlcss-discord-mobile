@@ -18,13 +18,11 @@ body {
     text-shadow: 4px 4px black;
     text-align: center;
 
-    
- 
 }
 
 .container{
     border-radius: 20px;
-    height: 80dvh;
+    height: 50dvh;
     width: 70dvw;
     margin: 5dvh 15dvw 15dvh 15dvw;
 
@@ -50,3 +48,33 @@ body {
     background-color: rgba(88, 101, 242);
     margin-top: 30px;
  }
+
+.container_2{
+    border-radius: 20px;
+    height: 80dvh;
+    width: 70dvw;
+    margin: 5dvh 15dvw 1dvh 15dvw;
+    background-color: rgba(93, 100, 209);
+    
+
+ }
+
+ .container_3{
+    border-radius: 20px;
+    height: 80dvh;
+    width: 70dvw;
+    margin: 5dvh 15dvw 15dvh 15dvw;
+    background-color: rgba(93, 100, 209);
+    
+ }
+
+
+#title_2{
+    color: white;
+    font-family: "Tektur", sans-serif;
+    font-size: 500%;
+    text-shadow: 4px 4px black;
+    padding: 50px;
+
+
+}
