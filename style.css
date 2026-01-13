@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 
-
+.top-banner{
+    width: 400%;
+}
 
 body {
     width: 512px;
@@ -69,12 +71,16 @@ body {
  }
 
 
-#title_2{
+.title_2{
     color: white;
     font-family: "Tektur", sans-serif;
     font-size: 500%;
     text-shadow: 4px 4px black;
     padding: 50px;
-
-
+}
+.top_video{
+    margin-left: 150px;
+    width: 500px;
+    border-radius: 40px;
+    padding: 5px;
 }
