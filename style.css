@@ -14,13 +14,39 @@ body {
 #Main_Title{
     color: white;
     font-family: "Tektur", sans-serif;
-   font-size: 400%;
-       color: white;
+   font-size: 500%;
     text-shadow: 4px 4px black;
-    padding: 5px;
     text-align: center;
-    margin: auto;
+
+    
  
-    
-    
 }
+
+.container{
+    border-radius: 20px;
+    height: 80dvh;
+    width: 70dvw;
+    margin: 5dvh 15dvw 15dvh 15dvw;
+
+}
+ p{
+    color: white;
+    text-align: center;
+    font-size: 150%;
+    padding: 40px;
+ }
+
+ #Paragraph1{
+    border: solid white;
+    border-radius: 25px;
+    color: black;
+    background-color: white;
+
+ }
+
+ #Paragraph2{
+    border: solid rgba(88, 101, 242);
+    border-radius: 25px;
+    background-color: rgba(88, 101, 242);
+    margin-top: 30px;
+ }
