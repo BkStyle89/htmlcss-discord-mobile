@@ -5,80 +5,84 @@
 }
 
 .top-banner{
-    width: 400%;
+    max-width: 100%;
 }
-
+/* main */
 body {
     width: 512px;
     background-color: rgba(25, 29, 123);
 }
-
+/* Title */
 #Main_Title{
     color: white;
     font-family: "Tektur", sans-serif;
-   font-size: 500%;
+   font-size: 300%;
     text-shadow: 4px 4px black;
     text-align: center;
 
 }
-
+/* top container */
 .container{
     border-radius: 20px;
     height: 50dvh;
     width: 70dvw;
-    margin: 5dvh 15dvw 15dvh 15dvw;
+    margin: 5dvh 0dvw 1dvh 15dvw;
 
 }
+/* description */
  p{
     color: white;
     text-align: center;
     font-size: 150%;
-    padding: 40px;
+    padding: 20px;
  }
 
+ /* windows button */
  #Paragraph1{
     border: solid white;
     border-radius: 25px;
     color: black;
     background-color: white;
-
+    padding: 30px;
  }
-
+/* quackword browser */
  #Paragraph2{
     border: solid rgba(88, 101, 242);
     border-radius: 25px;
     background-color: rgba(88, 101, 242);
-    margin-top: 30px;
+    margin-top: 10px;
+    padding: 30px;
  }
-
+/* bottom container */
 .container_2{
     border-radius: 20px;
-    height: 80dvh;
-    width: 70dvw;
-    margin: 5dvh 15dvw 1dvh 15dvw;
+    height: 70dvh;
+    width: 80dvw;
+    margin: 2dvh 5dvw 5dvh 10dvw;
     background-color: rgba(93, 100, 209);
     position: relative;
     
  }
-
+/* other titles */
 .title_2{
     color: white;
     font-family: "Tektur", sans-serif;
-    font-size: 500%;
+    font-size: 300%;
     text-shadow: 4px 4px black;
-    padding: 50px;
+    padding: 40px;
 }
+/* videos */
 .top_video{
-    margin-left: 10dvh;
-    width: 500px;
-    border-radius: 40px;
-    padding: 5px;
+    
+    max-width: 100%;
+    border-radius: 40px;  
+    padding: 20px;
         
 }
-
+/* stickers */
 .quackord{
     position: absolute;
     width: 150px;
     left: 10%;
-    top: -7%;
+    top: -9%;
 }
